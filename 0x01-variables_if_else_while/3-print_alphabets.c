@@ -14,7 +14,7 @@ int main(void)
 
 	while (j < 91)
 	{
-		putcahr(j);
+		putchar(j);
 		j++;
 	}
 
