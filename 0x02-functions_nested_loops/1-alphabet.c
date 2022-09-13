@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include "main.h"
 
-void alpha(void)
+
+void main(void)
 {
 	char letter = 'a';
 	while (letter <= 'z')
