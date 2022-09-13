@@ -3,7 +3,7 @@
 /**
  * lowercase check
  */
-int islower(int c);
+int islower(int c)
 {
 
 	if (c >= "a" && c <= "z")
