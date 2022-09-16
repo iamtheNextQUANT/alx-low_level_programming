@@ -4,9 +4,9 @@
  * checking uppercase
  */
 
-int _isupper(int charac)
+int _isupper(int c)
 {
-	if(charac >="A" && charac <="Z")
+	if(c>="A" && c <="Z")
 		return(1);
 	return (0);
 }
