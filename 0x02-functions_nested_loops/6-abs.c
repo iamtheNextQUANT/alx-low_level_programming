@@ -1,17 +1,15 @@
 #include "main.h"
 
-/*
- * absolute value
- */
 
-int _abs(int n)
+/**
+ *  * _abs - check the code 
+ *  * @num: Holds an integer
+ *   * Return: Always 0.
+ *    */
+int _abs(int num)
 {
-	if (n <0)
-	{
-		return (n *-1);
-	}
-	else
-	{
-		return (n);
-	}
+		if (num < 0)
+					return (num * -1);
+			else
+						return (num);
 }
