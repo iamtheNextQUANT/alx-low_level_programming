@@ -1,7 +1,7 @@
-#include "main.h"
+#include "main.hi"
 
 /**
- *  * _isupper - check the code for Holberton School students.
+ *  * _isupper - check the code
  *   * @c: Character input
  *    * Return: Always 0.
  *     */
