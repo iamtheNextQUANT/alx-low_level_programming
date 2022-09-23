@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *  * times_table - check the code
- *   *
- *    * Return: Always 0.
- *     */
+ * times_table - check the code
+ *
+ */
+
 void times_table(void)
 {
 		int i, j, num;
@@ -36,3 +36,4 @@ void times_table(void)
 
 									_putchar('\n');
 										}
+}
