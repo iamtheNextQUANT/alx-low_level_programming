@@ -40,6 +40,6 @@ char *argsostr(int ac, char **av){
 												        return (str);                                                                                               
 													                                                                                                                    
 									}                                                                                                                   
-}                                                                                                                   
+ 
                                                                                                                     
 
